@@ -1,0 +1,9 @@
+name: Morphinator
+version: '${project.version}'
+main: me.ghaxz.morphinator.Morphinator
+api-version: '1.20'
+
+commands:
+  morphinator:
+    description: Gives the player a Morphinator.
+    usage: /<command>
